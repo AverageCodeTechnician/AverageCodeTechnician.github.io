@@ -1,0 +1,90 @@
+@font-face{
+    font-family: 'tableFont';
+    src: url(Workbench/static/Workbench-Regular.ttf) format('truetype');
+}
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+table{
+   
+}
+
+.colors{
+    padding: 50px 25% 20px;
+    text-align: center;
+    font-size: 32px;
+    border: 2px dotted black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+    margin-right: 50px;
+}
+
+.fonts{
+    padding: 50px 25% 20px;
+    text-align: center;
+    font-size: 32px;
+    border: 2px dotted black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+    margin-right: 50px;
+}
+
+.textStyles{
+    padding: 50px 25% 20px;
+    text-align: left;
+    border: 2px dotted black;
+    padding: 100px 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+    margin-right: 50px;
+}
+
+/*td{
+    padding: 40px;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif, wingdings;
+}*/
+.blue{
+    background-color: #72bcd4;
+    }
+    
+    .gold{
+    background-color: #ffd700;
+    }
+    
+    .grey{
+    background-color: #808080;
+    }
+
+.workbench{
+    font-family: 'tableFont', serif;
+}
+
+.headerfont{
+    font-family: 'headerFont', serif;
+}
+
+.edu-nsw{
+    font-family: "Edu NSW ACT Foundation", cursive, serif;
+    font-style: normal;
+    font-weight: 500;
+  }  
+
+/*sources
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+https://css-tricks.com/snippets/css/using-font-face-in-css/
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/HTML/Element/div.html
+https://developer.mozilla.org/en-US/docs/Web/CSS/container
+https://www.codecademy.com/learn/learn-css/modules/learn-css-typography/cheatsheet
+https://fonts.google.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+*/
